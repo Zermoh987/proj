@@ -1,0 +1,100 @@
+
+main{
+    font-family: 'Segoe UI', 'Roboto', 'Helvetica Neue', Arial, sans-serif;
+    text-align: center;
+    background-color: rgb(238, 238, 238);
+    border-radius: 7px;
+    margin: 10px;
+}
+div{
+    background-color: white;
+    margin: 0 10px 50px 10px;
+    text-align: center;
+}
+
+#title{
+    text-align: center;
+    padding-top: 50px;
+    font-size: 40px;
+}
+
+main p{
+    text-align: center;
+}
+
+ul{
+    text-align: left;
+    margin: 50px auto 60px 350px;
+
+}
+
+li{
+    margin-bottom: 20px;
+}
+
+#img-caption{
+    padding: 10px 0 20px 0;
+}
+
+#bare{
+    text-decoration: none;
+    position: relative;
+    left: 20px;
+    top: 10px;
+}
+
+/* .logo{
+    margin: 0;
+}
+.menu-fcc{
+    margin: 0;
+    display: flex;
+}
+
+.butt{
+    margin: 0;
+    text-align: right;
+}
+
+#btn-heard{
+    width: 50px;
+    height: 45px;
+    border-radius: 7px;
+    background-color: rgb(78, 82, 97);
+    border: none; 
+    color: #fff;
+}
+#btn-view {
+    border-radius: 7px; 
+    background-color: rgb(78, 82, 97);
+    color: #fff; 
+    padding: 12px;
+    text-decoration: none;
+}
+
+#btn-sign{
+    padding: 10px;
+    border-radius: 7px;
+    background-color: rgb(29, 202, 87);
+    text-decoration: none;
+    margin: 5px; 
+}
+#btn-login{
+    padding: 10px;
+    border-radius: 7px;
+    background-color: rgb(78, 82, 97); 
+    color: #fff;
+    text-decoration: none;
+}
+#btn-follow{
+    border-radius: 5px;
+    height: 20px;
+    width: 70px;
+    font-size: 12px;
+    background-color: rgb(29, 202, 87); 
+    border: none;
+}
+.content{
+    padding: 20px 0 0 0 ;
+    height: 100px;
+} */
