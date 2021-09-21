@@ -42,59 +42,7 @@ li{
     left: 20px;
     top: 10px;
 }
-
-/* .logo{
-    margin: 0;
+header img{
+    margin-left: 20px;
+    margin-bottom: -30px;
 }
-.menu-fcc{
-    margin: 0;
-    display: flex;
-}
-
-.butt{
-    margin: 0;
-    text-align: right;
-}
-
-#btn-heard{
-    width: 50px;
-    height: 45px;
-    border-radius: 7px;
-    background-color: rgb(78, 82, 97);
-    border: none; 
-    color: #fff;
-}
-#btn-view {
-    border-radius: 7px; 
-    background-color: rgb(78, 82, 97);
-    color: #fff; 
-    padding: 12px;
-    text-decoration: none;
-}
-
-#btn-sign{
-    padding: 10px;
-    border-radius: 7px;
-    background-color: rgb(29, 202, 87);
-    text-decoration: none;
-    margin: 5px; 
-}
-#btn-login{
-    padding: 10px;
-    border-radius: 7px;
-    background-color: rgb(78, 82, 97); 
-    color: #fff;
-    text-decoration: none;
-}
-#btn-follow{
-    border-radius: 5px;
-    height: 20px;
-    width: 70px;
-    font-size: 12px;
-    background-color: rgb(29, 202, 87); 
-    border: none;
-}
-.content{
-    padding: 20px 0 0 0 ;
-    height: 100px;
-} */
