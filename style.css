@@ -2,11 +2,14 @@
 main{
     font-family: 'Segoe UI', 'Roboto', 'Helvetica Neue', Arial, sans-serif;
     text-align: center;
-    background-color: rgb(238, 238, 238);
     border-radius: 7px;
     margin: 10px;
 }
-div{
+.container-fluid{
+    background-color: rgb(238, 238, 238);
+    border-radius: 15px;
+}
+#figure{
     background-color: white;
     margin: 0 10px 50px 10px;
     text-align: center;
@@ -24,12 +27,14 @@ main p{
 
 ul{
     text-align: left;
-    margin: 50px auto 60px 350px;
 
 }
-
 li{
     margin-bottom: 20px;
+}
+.liste{
+    display: flex;
+    justify-content: center;
 }
 
 #img-caption{
